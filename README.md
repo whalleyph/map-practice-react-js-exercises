@@ -31,3 +31,8 @@ Starting with the array of objects returned by useMovieGenerator(), create and r
 -   pay attention to the structure and the classes assigned to each element.
 -   remember to use `classList` in React in order to have it generate the `class` attribute in HTML.
 -   It doesn't matter which movies are in your list - these are generated at random!
+
+
+## For Faculty
+
+[example solutions here](https://github.com/WeAreAcademy/map-practice-react-js-exercises-solution)
