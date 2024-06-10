@@ -22,7 +22,7 @@ Starting with the array of objects returned by useEmojiGenerator(), create and r
 -   remember to use `classList` in React in order to have it generate the `class` attribute in HTML.
 -   It doesn't matter which emojis are in your list - these are generated at random!
 
-## Task 1
+## Task 2
 
 Edit the file `src/MapPractice2.jsx`
 
