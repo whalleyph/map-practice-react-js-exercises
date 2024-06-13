@@ -7,7 +7,7 @@ export default function MapPractice1() {
 
     return (
         <div className="mapPractice">
-            <h2>Map Practice 1</h2>
+            <h2>Emojis:</h2>
             <div className="emojiList">
                 {emojiElements}
             </div>
