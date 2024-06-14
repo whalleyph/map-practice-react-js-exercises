@@ -5,7 +5,8 @@ export default function MapPractice2() {
     const [movies, regenerate] = useMovieGenerator();
     console.log("movies", movies);
     const movieElements = movies.map(movie => {
-        return <Movie 
+        return <Movie
+            key={movie.id} 
             title={movie.title}
             star={movie.star}
             genre={movie.genre}
